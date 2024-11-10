@@ -24,5 +24,3 @@
                  <a href="https://poem-necessary-movie.glitch.me/" target="_blank">Poem</a>  
             <img src="Screenshot 2024-11-10 003001.png">
         </nav>
-</body>
-</html>
